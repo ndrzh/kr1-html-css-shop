@@ -1,27 +1,4 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  line-height: 1.5;
-}
+<<<<<<< HEAD
+=======
 
-header,
-main,
-footer {
-  padding: 20px;
-}
-
-header {
-  background-color: #f2f2f2;
-}
-
-footer {
-  background-color: #f2f2f2;
-}
-
-section {
-    margin-bottom: 24px;
-}
-
-section h2 {
-    margin-top: 0;
-}
+>>>>>>> 66cb28a33e256759573aa6aacab25dd1afda99ca
